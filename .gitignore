@@ -1,3 +1,4 @@
 .vscode
 *.out
 .rspec
+test.db
